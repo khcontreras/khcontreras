@@ -11,7 +11,7 @@ With a dynamic career spanning customer support, operations management, real est
 
 <!-- Social icons section -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/kim-contreras/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/linkedin/linkedin-original.svg"/></a>
+  <a href="https://www.linkedin.com/in/kimcontreras/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/linkedin/linkedin-original.svg"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
 
